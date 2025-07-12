@@ -2,7 +2,7 @@
 🧹 Machine Learning Preprocessing Tutorial
 This repository contains a step-by-step walkthrough of data preprocessing techniques commonly used in machine learning workflows. The notebook demonstrates how to handle missing values, detect and treat outliers, encode categorical variables, and scale numerical features.
 
-#📁 Dataset
+#Dataset
 The dataset used in this notebook is named preprocessing_dataset.csv. It should be stored in your Google Drive for Colab access.
 
 #📋 Key Concepts Covered
