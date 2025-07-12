@@ -1,4 +1,4 @@
-**preprocesssing in meachin learning**
+# preprocesssing in meachin learning**
 
 This repository contains a step-by-step walkthrough of data preprocessing techniques commonly used in machine learning workflows. The notebook demonstrates how to handle missing values, detect and treat outliers, encode categorical variables, and scale numerical features.
 
