@@ -4,6 +4,8 @@ This repository contains a step-by-step walkthrough of data preprocessing techni
 The dataset used in this notebook is named preprocessing_dataset.csv. It should be stored in your Google Drive for Colab access.
 
 📋 Key Concepts Covered
+
+
 🔍 1. Data Inspection
 Loading the dataset using Pandas
 
